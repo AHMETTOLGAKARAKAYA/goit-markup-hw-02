@@ -4,6 +4,9 @@ body{
     background-color: #ffffff;
 
 }
+/*ul {
+     list-style-type:none;
+ }*/
 .web-studio{
     font-family: "Raleway";
     font-weight: 700;
@@ -12,6 +15,7 @@ body{
     line-height: 1.17;
     text-transform: uppercase;
     color:#4d5ae5;
+    /*text-decoration:none*/
 }
 .studio-logo{
     color: #2e2f42;
@@ -136,4 +140,12 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
+}
+.footer{
+    color:#2e2f42;
+}
+.footer-p{
+    line-height: 1.5;
+    color:#f4f4fd;
+    letter-spacing: 0.02em;
 }
