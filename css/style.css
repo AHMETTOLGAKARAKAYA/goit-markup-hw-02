@@ -1,12 +1,13 @@
 .web-studio{
-    font-family: "Raleway";
+    font-family:"Raleway";
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0.03em;
+    line-height: 1.17;
     text-transform: uppercase;
     color:#4d5ae5;
 }
-studio-logo{
+.studio-logo{
     color: #2e2f42;
 }
 .menu{
