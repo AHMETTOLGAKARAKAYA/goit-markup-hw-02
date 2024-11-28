@@ -142,10 +142,13 @@ body{
     color:#434455;
 }
 .footer-class{
-    color:#2e2f42;
+    background-color:#2e2f42;
 }
 .footer-p{
     line-height: 1.5;
     color:#f4f4fd;
     letter-spacing: 0.02em;
+}
+.studio-logoiki{
+    color: #2e2f42;
 }
