@@ -67,14 +67,14 @@
 .order-button:focus{
     background-color: #404bbf;
 }
-.section2-h3{
+.sectioniki-baslikuc{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     color:#2e2f42;
     letter-spacing: 0.02em;
 }
-.section2-p
+.sectioniki-p
 {
     font-size:16px;
     line-height: 1.5;
@@ -82,3 +82,15 @@
     color:#434455;
 }
 
+.our-team{
+    background-color: #f4f4fd;
+}
+.our-team-baslikiki{
+    font-size: 36px;
+    line-height:  1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+
+}
