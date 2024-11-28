@@ -40,5 +40,29 @@
 .mail-tel:focus{
     color:#404bbf
 }
+.title-main{
+    background-color: #2e2f42;
+}
+.baslik-1{
+    font-size:56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+
+}
+.order-button{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.order-button:hover{
+    color:#404bbf
+}
+.order-button:focus{
+    color:#404bbf;
+}
 
 
